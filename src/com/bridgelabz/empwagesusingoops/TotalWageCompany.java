@@ -1,5 +1,8 @@
 package com.bridgelabz.empwagesusingoops;
-
+/*
+* @author : Ashwini
+* Ability to save the Total Wage for Each Company.
+*/
 public class EmployeeWagesUsingOOPs {
     //Constants for class
     public static final int IS_PART_TIME = 1;
