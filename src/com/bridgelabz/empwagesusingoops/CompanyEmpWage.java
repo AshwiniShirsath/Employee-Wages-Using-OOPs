@@ -1,5 +1,8 @@
 package com.bridgelabz.empwagesusingoops;
-
+/*
+* @author : Ashwini
+* Ability to manage Employee Wage of multiple companies 
+*/
 public class CompanyEmpWage {
 	//Instance Variables
     public String companyName;
