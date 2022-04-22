@@ -58,7 +58,7 @@ public class EmployeeWagesUsingOOPs {
 
 	public static void main(String[] args) {
 		//Welcome Message for Initial Purpose
-        System.out.println("Welcome to Employee Wages Problem Developed by Tahir Mansuri.");
+        System.out.println("Welcome to Employee Wages Problem.");
         EmployeeWagesUsingOOPs jio = new EmployeeWagesUsingOOPs("JIO",20,10,30);
         EmployeeWagesUsingOOPs vodafone = new EmployeeWagesUsingOOPs("VODAFONE",15,5,25);
         jio.calculateEmpWage();
